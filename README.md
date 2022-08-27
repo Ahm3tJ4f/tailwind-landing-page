@@ -1,2 +1,2 @@
 # tailwind-landing-page
-I developed this project for practicing TailwindCSS and responsive web design
+I created this project for practicing TailwindCSS and responsive web design
